@@ -3,7 +3,9 @@
 <br>
 <br>
 <br> 
- 
+<br>
+<br>
+<br>
 <!--<div>
 <a href="https://github.com/WilliamReisO">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamReisO&layout=compact&langs_count=7&theme=dracula"/>
@@ -14,9 +16,15 @@
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=williamReisO&bg_color=050505&color=f1f4eb&line=34e5b8&point=3cb309&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
+<br>
+<br>
+<br> 
+<br>
+<br>
+<br>
 
-
- <h2>Estou aprendendo</h2>
+ <h2>Estou Aprendendo</h2>
  
 <img style="margin-right: 30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"  width="50" height="50"/>
 
