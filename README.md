@@ -1,7 +1,5 @@
-<h1> William Reis </h1>
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=7FFFD4&height=150&section=header" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=7FFFD4&size=25&center=true&vCenter=true&font=Fira+Code&pause=3500&width=435&lines=Olá+Meu+nome+é+William+Reis;+Bem+Vindo+ao+meu+repositório" alt="Typing SVG" /></a>
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=7FFFD4&height=150&section=header" /><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=7FFFD4&size=25&center=true&vCenter=true&font=Fira+Code&pause=3500&width=435&lines=Olá+Meu+nome+é+William+Reis;+Bem+Vindo+ao+meu+repositório" alt="Typing SVG" /></a>
 
 
 <br>
