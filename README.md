@@ -1,7 +1,5 @@
 # Olá , me chamo William Reis 
 
-![Snake animation](https://github.com/WilliamReisO/WilliamReisO/blob/output/github-contribution-grid-snake.svg)
-
 
 ## Hello, Devs !!
 <div>
@@ -13,7 +11,7 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=williamReisO&bg_color=ea9662&color=f4ebf4&line=9e4c5d&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=williamReisO&bg_color=050505&color=f1f4eb&line=34e5b8&point=3cb309&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
  ## Estou aprendendo
