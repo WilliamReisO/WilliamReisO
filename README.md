@@ -1,36 +1,26 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=Waving&color=7FFFD4&height=150&section=header" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=7FFFD4&center=true&vCenter=true&font=Fira+Code&pause=3500&width=435&lines=Olá+Meu+nome+é+William+Reis;+Bem+Vindo+ao+meu+repositório" alt="Typing SVG" /></a>
-<br>
-<br>
-<br>
-<br> 
-<br>
-<br>
-<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=7FFFD4&size=25&center=true&vCenter=true&font=Fira+Code&pause=3500&width=435&lines=Olá+Meu+nome+é+William+Reis;+Bem+Vindo+ao+meu+repositório" alt="Typing SVG" /></a>
+ <br>
+ <br>
+ <br>
 <div>
 <a href="https://github.com/WilliamReisO">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamReisO&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamReisO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div> 
- 
-<br>
-<br>
-<br>
-<br> 
-<br>
+<!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamReisO&layout=compact&langs_count=7&theme=dracula"/>--><img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamReisO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>  
 <br>
 <br>
  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=williamReisO&bg_color=050505&color=f1f4eb&line=34e5b8&point=3cb309&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=williamReisO&bg_color=050505&color=f1f4eb&line=34e5b8&point=3cb309&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
  <h2>Estou Aprendendo</h2>
  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50" height="50" /><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="50" height="50"/><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50" /><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"  width="50" height="50"/>
 
 <h2>Ferramentas e Tecnologias</h2>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50" />
 
 <h2> Contatos :</h2> 
 <div>
@@ -39,10 +29,6 @@
 <a href="https://www.linkedin.com/in/william-reis-o/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 </div>
-<br>
-<br>
-<br>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7FFFD4&height=120&section=footer"/>
 
    
