@@ -1,8 +1,8 @@
 <h1> William Reis </h1>
-<b>
-<b>
-<b>
-<b> 
+<br>
+<br>
+<br>
+<br> 
  
 <!--<div>
 <a href="https://github.com/WilliamReisO">
