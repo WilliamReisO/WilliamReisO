@@ -13,7 +13,7 @@
 
 
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=williamReisO&bg_color=ea9662&color=f4ebf4&line=9e4c5d&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
  ## Estou aprendendo
