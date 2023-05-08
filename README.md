@@ -5,15 +5,9 @@
  <br>
  <br>
  <br>
-<div>
-<a href="https://github.com/WilliamReisO">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamReisO&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamReisO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>  
-<br>
-<br>
  
-<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=williamReisO&bg_color=050505&color=f1f4eb&line=34e5b8&point=3cb309&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
--->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=williamReisO&bg_color=050505&color=f1f4eb&line=34e5b8&point=3cb309&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
  
  <h2>Ferramentas e Tecnologias</h2>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50" /></code>
