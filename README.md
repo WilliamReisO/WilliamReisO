@@ -6,7 +6,11 @@
  <br>
  <br>
  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=williamReisO&bg_color=050505&color=f1f4eb&line=34e5b8&point=3cb309&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ <div>
+  <a href="https://github.com/WilliamReisO">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LarissaMarquesPimenta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaMarquesPimenta&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
  
  <h2>Ferramentas e Tecnologias</h2>
