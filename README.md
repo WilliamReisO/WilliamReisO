@@ -16,12 +16,7 @@
 
  <br>
  
- <div>
-  <a href="https://github.com/WilliamReisO">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamReisO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamReisO&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
+ ###
  
  <h2>Ferramentas e Tecnologias</h2>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50" /></code>
