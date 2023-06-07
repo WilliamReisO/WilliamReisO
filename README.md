@@ -13,7 +13,7 @@
  
 - 📫 Lista de contatos abaixo , estou sempre disposto a uma boa conversa.
  
-
+<img align="right" alt="GIF" src="pics/code.gif?raw=true" width="300" height="200" />
  <br>
  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WilliamReisO&bg_color=000000&color=b4cbc4&line=4c9e8e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
