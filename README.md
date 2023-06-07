@@ -1,6 +1,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=Waving&color=7FFFD4&height=150&section=header" />
-#
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=7FFFD4&size=25&center=true&vCenter=true&font=Fira+Code&pause=3500&width=435&lines=Olá+Meu+nome+é+William+Reis;+Bem+Vindo+ao+meu+repositório" alt="Typing SVG" /></a>
  <br>
  <br>
@@ -16,6 +16,7 @@
 
  <br>
  
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WilliamReisO&bg_color=000000&color=a9b7df&line=5755e2&point=5fbedd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  #
  
  <h2> Tecnologias </h2>
@@ -28,13 +29,13 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="50" height="50"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="50" height="50"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50" /></code>
-#
+
 <h2> Contatos :</h2> 
 <div>
 <a href=https://www.instagram.com/w.i.l.l_oliver/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "william._r@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/william-reis-o/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-#
+
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7FFFD4&height=120&section=footer"/>
 
