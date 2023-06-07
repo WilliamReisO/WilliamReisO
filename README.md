@@ -4,6 +4,16 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=7FFFD4&size=25&center=true&vCenter=true&font=Fira+Code&pause=3500&width=435&lines=Olá+Meu+nome+é+William+Reis;+Bem+Vindo+ao+meu+repositório" alt="Typing SVG" /></a>
  <br>
  <br>
+ 
+- 🔭 Atualmente estou estudando Analise é desenvolvemento de sistemas.
+- #
+- 🤔 Sou um desenvolvedor full StacK java .
+- #
+- 💬 Gosto de adiquorir conhecimento sempre que possivel.
+- #
+- 📫 Lista de contatos abaixo , estou sempre disposto a uma boa conversa.
+- #
+
  <br>
  
  <div>
