@@ -9,7 +9,7 @@
 
 - 🤔 Sou um desenvolvedor full StacK java .
  
-- 💬 Gosto de adiquorir conhecimento sempre que possivel.
+- 💬 Gosto de adquirir conhecimento sempre que possivel.
  
 - 📫 Lista de contatos abaixo , estou sempre disposto a uma boa conversa.
  
