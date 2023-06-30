@@ -11,7 +11,7 @@
  
 - 💬 Gosto de adquirir conhecimento sempre que possivel.
   
-- 💬 Atualmente estou me aprofundando na linguagem Java é em Cloud AWS.
+- 💬 Atualmente estou me aprofundando na linguagem Java , React é em Cloud AWS.
  
 - 📫 Lista de contatos abaixo , estou sempre disposto a uma boa conversa.
  
