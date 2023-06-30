@@ -10,7 +10,7 @@
 - 🤔 Estou iniciando a careira de desenvolvedor full StacK java .
  
 - 💬 Gosto de adquirir conhecimento sempre que possivel.
-- 
+  
 - 💬 Atualmente estou me aprofundando na linguagem Java é em Cloud AWS.
  
 - 📫 Lista de contatos abaixo , estou sempre disposto a uma boa conversa.
