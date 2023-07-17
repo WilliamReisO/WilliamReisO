@@ -7,7 +7,7 @@
  
 - 🔭 Atualmente estou estudando Analise é desenvolvemento de sistemas.
 
-- 🤔 Estou iniciando a careira de desenvolvedor full StacK java .
+- 🤔 Estou iniciando a carreira de na programação , no momento sou FullStack .
  
 - 💬 Gosto de adquirir conhecimento sempre que possivel.
   
