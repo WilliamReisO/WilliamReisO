@@ -20,7 +20,7 @@
  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WilliamReisO&bg_color=000000&color=b4cbc4&line=4c9e8e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  #
- 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamReisO_weight=0.5&count_weight=0.5)
  <h2> Competências </h2>
 <div aling-itens="center" ;>
 
