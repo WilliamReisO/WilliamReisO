@@ -6,13 +6,11 @@
  
 - 🔭 Atualmente estou estudando Analise é desenvolvemento de sistemas.
 
-- 🤔 Estou iniciando a carreira de na programação , no momento sou FullStack .
- 
-- 💬 Gosto de adquirir conhecimento sempre que possivel.
+- 💻 Sou estágio de Desenvolvimento de software no Santander 
   
-- 💬 Atualmente estou me aprofundando na linguagem Java , React.
+- 💬 Atualmente estou me aprofundando na linguagem Java,AWS e angular.
  
-- 📫 Lista de contatos abaixo , estou sempre disposto a uma boa conversa.
+- 📫 Lista de contatos abaixo:
  
 <img align="right" alt="GIF" src="pics/code.gif?raw=true" width="300" height="200" />
 
