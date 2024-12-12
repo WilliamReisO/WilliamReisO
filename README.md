@@ -6,7 +6,7 @@
  
 - 🔭 Atualmente estou estudando Analise é desenvolvemento de sistemas.
 
-- 💻 Sou estagiário de Desenvolvimento de software no Santander 
+- 💻 Sou estagiário de Desenvolvimento de software
   
 - 💬 Atualmente estou me aprofundando na linguagem Java,AWS e angular.
  
